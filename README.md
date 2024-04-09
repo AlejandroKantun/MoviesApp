@@ -5,7 +5,7 @@
 <table>
 <tr>
 <td>
-  This App shows different list of movies such as now in movie teathers, best rated, popular and  upcoming
+  This App shows different lists of movies such as now in movie teathers, best rated, popular and  upcoming
   - Select a movie and open its detail
   - Changing background color according movie poster colors
 </td>
@@ -23,7 +23,6 @@ Some technical features are:
 - Use of hooks and customs hooks
 - Use of Context to manage data through all screens
 
-
 ## Demos
 
 ### Scroll movies
@@ -38,13 +37,9 @@ Some technical features are:
 
 [![](https://alejandrokantun.github.io/MoviesImages/Demo2_MovieDetail.gif)](https://alejandrokantun.github.io/MoviesImages/Demo2_MovieDetail.mp4)
 
-
-
-
 ### Screenshots
 
 <img src="https://alejandrokantun.github.io/MoviesImages/Movie1.jpg" width="400">
 <img src="https://alejandrokantun.github.io/MoviesImages/MovieDetail.jpg" width="400">
-
 
 Developed by [Alejandro Kantun](https://github.com/AlejandroKantun)
