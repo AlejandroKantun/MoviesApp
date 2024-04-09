@@ -1,80 +1,52 @@
-This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
+<img src="https://alejandrokantun.github.io/MoviesImages/Movie1.jpg" width="500">
 
-# Getting Started
+# Mobile App for Android - iOS
 
->**Note**: Make sure you have completed the [React Native - Environment Setup](https://reactnative.dev/docs/environment-setup) instructions till "Creating a new application" step, before proceeding.
+<table>
+<tr>
+<td>
+  This App shows different list of movies such as now in movie teathers, best rated, popular and  upcoming
+  - Select a movie and open its detail
+  - Changing background color according movie poster colors
+</td>
+</tr>
+</table>
 
-## Step 1: Start the Metro Server
+## Tech
 
-First, you will need to start **Metro**, the JavaScript _bundler_ that ships _with_ React Native.
+Some technical features are:
 
-To start Metro, run the following command from the _root_ of your React Native project:
+- Use of axios package to require data from TheMovieDB
+- Use of custom carrousel
+- Use of flatlist
+- Use of custom UI cards to show movies
+- Use of hooks and customs hooks
+- Use of Context to manage data through all screens
 
-```bash
-# using npm
-npm start
 
-# OR using Yarn
-yarn start
-```
+## Demos
 
-## Step 2: Start your Application
+### Scroll movies
 
-Let Metro Bundler run in its _own_ terminal. Open a _new_ terminal from the _root_ of your React Native project. Run the following command to start your _Android_ or _iOS_ app:
+[![](https://alejandrokantun.github.io/MoviesImages/Demo1_Main.gif)](https://alejandrokantun.github.io/MoviesImages/Demo1_Main.mp4)
 
-### For Android
+### Scroll categories movies
 
-```bash
-# using npm
-npm run android
+[![](https://alejandrokantun.github.io/MoviesImages/Demo3_MoviesCatalog.gif)](https://alejandrokantun.github.io/MoviesImages/Demo3_MoviesCatalog.mp4)
 
-# OR using Yarn
-yarn android
-```
+### Open movie details
 
-### For iOS
+[![](https://alejandrokantun.github.io/MoviesImages/Demo2_MovieDetail.gif)](https://alejandrokantun.github.io/MoviesImages/Demo2_MovieDetail.mp4)
 
-```bash
-# using npm
-npm run ios
 
-# OR using Yarn
-yarn ios
-```
+### Search and delete ticket
 
-If everything is set up _correctly_, you should see your new app running in your _Android Emulator_ or _iOS Simulator_ shortly provided you have set up your emulator/simulator correctly.
+[![](https://alejandrokantun.github.io/MoviesImages/SearchAndDeleteTicket.gif)](https://alejandrokantun.github.io/MoviesImages/SearchAndDeleteTicket.mp4)
 
-This is one way to run your app — you can also run it directly from within Android Studio and Xcode respectively.
+### Screenshots
 
-## Step 3: Modifying your App
+<img src="https://alejandrokantun.github.io/MoviesImages/Movie1.jpg" width="400">
+<img src="https://alejandrokantun.github.io/MoviesImages/MovieDetail.jpg" width="400">
 
-Now that you have successfully run the app, let's modify it.
 
-1. Open `App.tsx` in your text editor of choice and edit some lines.
-2. For **Android**: Press the <kbd>R</kbd> key twice or select **"Reload"** from the **Developer Menu** (<kbd>Ctrl</kbd> + <kbd>M</kbd> (on Window and Linux) or <kbd>Cmd ⌘</kbd> + <kbd>M</kbd> (on macOS)) to see your changes!
-
-   For **iOS**: Hit <kbd>Cmd ⌘</kbd> + <kbd>R</kbd> in your iOS Simulator to reload the app and see your changes!
-
-## Congratulations! :tada:
-
-You've successfully run and modified your React Native App. :partying_face:
-
-### Now what?
-
-- If you want to add this new React Native code to an existing application, check out the [Integration guide](https://reactnative.dev/docs/integration-with-existing-apps).
-- If you're curious to learn more about React Native, check out the [Introduction to React Native](https://reactnative.dev/docs/getting-started).
-
-# Troubleshooting
-
-If you can't get this to work, see the [Troubleshooting](https://reactnative.dev/docs/troubleshooting) page.
-
-# Learn More
-
-To learn more about React Native, take a look at the following resources:
-
-- [React Native Website](https://reactnative.dev) - learn more about React Native.
-- [Getting Started](https://reactnative.dev/docs/environment-setup) - an **overview** of React Native and how setup your environment.
-- [Learn the Basics](https://reactnative.dev/docs/getting-started) - a **guided tour** of the React Native **basics**.
-- [Blog](https://reactnative.dev/blog) - read the latest official React Native **Blog** posts.
-- [`@facebook/react-native`](https://github.com/facebook/react-native) - the Open Source; GitHub **repository** for React Native.
-# MoviesApp
+Developed by [Alejandro Kantun](https://github.com/AlejandroKantun)
