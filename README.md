@@ -32,16 +32,14 @@ Some technical features are:
 
 ### Scroll categories movies
 
-[![](https://alejandrokantun.github.io/MoviesImages/Demo3_MoviesCatalog.gif)](https://alejandrokantun.github.io/MoviesImages/Demo3_MoviesCatalog.mp4)
+[Click to play](https://alejandrokantun.github.io/MoviesImages/Demo3_MoviesCatalog.mp4)
 
 ### Open movie details
 
 [![](https://alejandrokantun.github.io/MoviesImages/Demo2_MovieDetail.gif)](https://alejandrokantun.github.io/MoviesImages/Demo2_MovieDetail.mp4)
 
 
-### Search and delete ticket
 
-[![](https://alejandrokantun.github.io/MoviesImages/SearchAndDeleteTicket.gif)](https://alejandrokantun.github.io/MoviesImages/SearchAndDeleteTicket.mp4)
 
 ### Screenshots
 
